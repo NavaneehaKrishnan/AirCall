@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ListView
+            android:id="@+id/collect_listview_call"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:divider="@null"
+            android:visibility="visible" />
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/grace_hour"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Disposition"
+                    android:textColor="@color/text_primary"
+                    android:textSize="15dp" />
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/border_gray">
+
+                    <Spinner
+                        android:id="@+id/dispo_spinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/red"
+                        android:padding="5dp"
+                        android:theme="@style/ThemeOverlay.AppCompat.Light" />
+                </RelativeLayout>
+
+            </LinearLayout>
+            <EditText
+                android:id="@+id/comments"
+                android:padding="10dp"
+                android:gravity="top|left"
+                android:textSize="18dp"
+                android:hint="Comments"
+                android:layout_margin="10dp"
+                android:background="@drawable/border_gray"
+                android:textColor="@color/text_primary"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"/>
+        </LinearLayout>
+        <Button
+            android:id="@+id/end_call"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/red"
+            android:text="END CALL"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</LinearLayout>

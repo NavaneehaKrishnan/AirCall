@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\navaneetha krishnan\\.gradle\\caches\\transforms-2\\files-2.1\\7f0e9af79deeea5926c2ea681af4af74\\jetified-simplealertdialog-1.2.1\\res\\values-v14\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,280",
+                        "endColumns": "87,99",
+                        "endOffsets": "275,375"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,143",
+                        "endColumns": "87,99",
+                        "endOffsets": "138,238"
+                    }
+                }
+            ]
+        }
+    ]
+}

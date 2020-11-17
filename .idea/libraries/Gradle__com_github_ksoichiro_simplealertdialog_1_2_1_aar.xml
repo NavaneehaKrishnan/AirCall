@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ksoichiro:simplealertdialog:1.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f0e9af79deeea5926c2ea681af4af74/jetified-simplealertdialog-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f0e9af79deeea5926c2ea681af4af74/jetified-simplealertdialog-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f0e9af79deeea5926c2ea681af4af74/jetified-simplealertdialog-1.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ksoichiro/simplealertdialog/1.2.1/dbf8691f15f770592a6eaa711166f607c4db47f0/simplealertdialog-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ksoichiro/simplealertdialog/1.2.1/e8c6cf0a80c92fb5cab813e101c32399efe41c2b/simplealertdialog-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,4 @@
+#Thu Oct 29 20:07:43 IST 2020
+base.0=D\:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\dex\\release\\shrunkDex\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

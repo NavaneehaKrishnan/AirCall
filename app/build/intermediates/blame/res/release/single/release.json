@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_sync_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_settings_power_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_settings_power_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_user.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_item_video_layout.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\item_video_layout.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_spinner_down.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\spinner_down.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_login_new.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\login_new.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_live_help_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_live_help_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_play_video.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_dispo_layout.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\dispo_layout.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_spinner_down.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\spinner_down.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_refresh.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_settings_power_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_settings_power_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_sync_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_spinner_text.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_edittextbg.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\edittextbg.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_user.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\user.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_call_adapter.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\call_adapter.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_customer_details_item.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\customer_details_item.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_refresh.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_web_view.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_refresh_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_close.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_chat_bot.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_chat_bot.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_refresh_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_refresh_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_user.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_close.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\close.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_dialer_sip_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_dialer_sip_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_dynamic_layout.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\dynamic_layout.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_refresh_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_back.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_refresh_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\xml_network_security_config.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_chat_items.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\chat_items.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_mobile_spinner_layout.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\mobile_spinner_layout.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_dialer_sip_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_dialer_sip_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main2.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_editext_light.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\editext_light.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_refresh_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_login.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_refresh.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\refresh.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_border.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\xml_file_paths.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_call_adapter_preview.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\call_adapter_preview.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_refresh.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumpnail_5.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumpnail_5.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_back_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\back_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_lock_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable-v24\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_editext.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable-v24\\editext.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_chck_alert_new_dialog.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\chck_alert_new_dialog.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_settings_power_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_settings_power_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_resetpassword.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\resetpassword.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_local_cafe_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_local_cafe_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_chat_bot_icon.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\chat_bot_icon.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_close.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_chat_bot_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\chat_bot_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_live_help_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_live_help_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_back_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\back_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumpnail_4.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumpnail_4.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_chat_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\chat_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_event_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_event_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_sync_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_bottom_layout.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\bottom_layout.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_chat_bot_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\chat_bot_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_settings_power_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_settings_power_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumbnail_6.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumbnail_6.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_dialer_sip_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_dialer_sip_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_play_video.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_new_model.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\new_model.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_back.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_user.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_play_video.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_back_icon.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\back_icon.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_send.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\send.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_call_dispo.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\call_dispo.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_refresh.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_txt_background.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\txt_background.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_live_help_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_live_help_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_refresh.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumpnail_3.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumpnail_3.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_chat_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\chat_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_spinner_down.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\spinner_down.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_sync_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_resetpassword.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\resetpassword.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_settings_power_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_settings_power_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_back_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\back_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_user.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\user.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_video_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\video_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_call_progressive.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\call_progressive.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_end_btn_bg.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\end_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_spinner_down.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\spinner_down.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_border_btnbg.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\border_btnbg.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_play_video.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\play_video.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_back.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_video_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\video_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_video_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\video_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_send.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\send.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_resetpassword.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\resetpassword.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_live_help_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_live_help_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_sync_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_spinner_down.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\spinner_down.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo_trans.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\logo_trans.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_favicon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\favicon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_radiobutton_dialog.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\radiobutton_dialog.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_web_activity.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\web_activity.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_dialer_sip_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_dialer_sip_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumbnail_9.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumbnail_9.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_line_gray.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\line_gray.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_chat_bot_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\chat_bot_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_customer_details_item.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\customer_details_item.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_sync_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_spinner_down.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\spinner_down.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_phonecall.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\phonecall.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_event_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_event_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_video_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\video_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumbnail_8.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumbnail_8.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_live_help_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_live_help_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_in_bubble.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\in_bubble.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_video_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\video_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\menu_option_menu.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_close.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_video_list.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_video_list.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_speak_normal.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\btn_speak_normal.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_user.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\user.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_resetpassword.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\resetpassword.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_ibreak.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\ibreak.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_close.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\close.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumpnail_2.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumpnail_2.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_speak_pressed.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\btn_speak_pressed.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_event_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_event_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_settings_power_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_settings_power_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_chat_bot_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\chat_bot_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_back.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\back.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_chat_icon.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\chat_icon.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_end_call.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\end_call.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_record.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\btn_record.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_video_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\video_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_close.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_send.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_appicon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_event_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_event_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_chat_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\chat_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_predictive_call.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_predictive_call.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_textviewbg.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\textviewbg.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_editext_login.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\editext_login.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_out_bubble.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\out_bubble.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_event_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_event_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_live_help_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_live_help_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumbnail_7.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumbnail_7.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_change_password.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_video_icon.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\video_icon.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_curv_border.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\curv_border.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_event_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_event_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_spinner_down.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\spinner_down.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_send.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\send.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_dialer_sip_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_dialer_sip_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_event_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_event_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_chat_bot_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\chat_bot_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_send.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\send.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_send.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\send.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_radiotext.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\radiotext.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_send.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\send.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_refresh_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_back_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_sync_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_play_video.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_dialer_sip_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_dialer_sip_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_close.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\close.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_speak_selected.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\btn_speak_selected.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_resetpassword.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\resetpassword.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_resetpassword.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\resetpassword.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_call_activity.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\call_activity.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_chat_bot_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\chat_bot_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_person_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable-v24\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_chat_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\chat_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_refresh_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_video.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_chat_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\chat_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_user.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\user.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_play_video.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\play_video.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo_line.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\logo_line.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_color_cursor.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable-v24\\color_cursor.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_splashscreen.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard_adapter.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\dashboard_adapter.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_new.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_main_new.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_walkietalkie.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\walkietalkie.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_settings_power_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_settings_power_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_play_circle_filled_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_base.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_acc_adapter.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\acc_adapter.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_back_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_play_circle_filled_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_play_circle_filled_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_chat_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\chat_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_resetpassword.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\resetpassword.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_border_gray.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\border_gray.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable_thumpnail_1.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable\\thumpnail_1.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_call_address_dialog.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\call_address_dialog.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\layout_spinner_textview.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\layout\\spinner_textview.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_live_help_black_24dp.xml.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_live_help_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_back.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_back.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_back_icon.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\back_icon.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_back.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_logo_white.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable-v24\\logo_white.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_dialer_sip_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_dialer_sip_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_tile.9.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\src\\main\\res\\drawable-v24\\tile.9.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_local_cafe_black_24dp.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_local_cafe_black_24dp.png"
+    },
+    {
+        "merged": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_refresh.png.flat",
+        "source": "D:\\krishnan\\CRM_PDM\\CrmPredective\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\refresh.png"
+    }
+]

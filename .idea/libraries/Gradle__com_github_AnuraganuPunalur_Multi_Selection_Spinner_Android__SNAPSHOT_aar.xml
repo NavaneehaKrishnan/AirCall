@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnuraganuPunalur:Multi-Selection-Spinner-Android:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1eaa3180047a298797b352daf432a15/jetified-Multi-Selection-Spinner-Android--SNAPSHOT/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1eaa3180047a298797b352daf432a15/jetified-Multi-Selection-Spinner-Android--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1eaa3180047a298797b352daf432a15/jetified-Multi-Selection-Spinner-Android--SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnuraganuPunalur/Multi-Selection-Spinner-Android/-SNAPSHOT/c4d75143766c355efddf08aeb7db6a2f17f1bb68/Multi-Selection-Spinner-Android--SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

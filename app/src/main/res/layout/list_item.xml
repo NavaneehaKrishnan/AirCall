@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:toggle="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:paddingTop="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constrainParent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp">
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guide1"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent=".02"/>
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guide2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent=".98"/>
+
+
+
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="13dp"
+            app:layout_constraintStart_toStartOf="@id/guide1"
+            app:layout_constraintEnd_toEndOf="@id/guide2">
+            <TextView
+                android:id="@+id/txtView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:gravity="center"
+                android:padding="12dp"
+                android:background="@drawable/curv_border"
+                android:text="value to the title"
+                android:textColor="@color/black"
+                android:textSize="18sp"/>
+
+            <EditText
+                android:id="@+id/etView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:visibility="gone"
+                android:singleLine="true"
+                android:padding="12dp"
+                android:background="@drawable/edittextbg"
+                android:text="value to the title"
+                android:textColor="@color/black"
+                android:textSize="18sp"/>
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constrainMSContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/curv_border"
+                android:gravity="center_vertical"
+                android:visibility="visible"
+                android:padding="10dp"
+                >
+            <com.anurag.multiselectionspinner.MultiSpinner
+                android:id="@+id/multiSpinner"
+                android:layout_width="match_parent"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:padding="12dp"
+                android:background="@null"
+                android:text="Select"
+                android:gravity="center"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_height="wrap_content"/>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constrainToggleContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/curv_border"
+                android:gravity="center_vertical"
+                android:visibility="gone"
+                android:padding="12dp">
+                <TextView
+                    android:id="@+id/txtOptions"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:text="text Options"/>
+                <com.zcw.togglebutton.ToggleButton
+                    android:id="@+id/toggleOptions"
+                    android:layout_width="54dp"
+                    toggle:tbOnColor="#0b3e52"
+                    toggle:tbOffColor="#FFFDFD"
+                    toggle:tbSpotColor="#076E07"
+                    app:tbAsDefaultOn="false"
+                    toggle:tbBorderWidth="2dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_height="30dp" >
+                </com.zcw.togglebutton.ToggleButton>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/rlSpinnerExp"
+                android:layout_width="match_parent"
+                android:visibility="gone"
+                android:layout_height="wrap_content">
+                <Spinner
+                    android:id="@+id/spinnerExp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="visible"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:background="@drawable/curv_border"
+                    />
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_marginEnd="13dp"
+                    android:src="@drawable/spinner_down"/>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="@id/guide1"
+            android:textSize="14sp"
+            android:gravity="start"
+            android:background="@drawable/txt_background"
+            android:layout_marginLeft="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Title here "/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

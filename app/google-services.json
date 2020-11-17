@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771899308368",
+    "firebase_url": "https://aircrm-5844b.firebaseio.com",
+    "project_id": "aircrm-5844b",
+    "storage_bucket": "aircrm-5844b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771899308368:android:d8541b8019f58510f21455",
+        "android_client_info": {
+          "package_name": "com.example.sipappmerge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771899308368-j3gj562uemfrroj5o65jsk8dme1tbaf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTTXV7Y2PbUAjctlWo6N3Ko38UhlUCw1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771899308368-j3gj562uemfrroj5o65jsk8dme1tbaf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

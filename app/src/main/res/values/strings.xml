@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AIR CRM</string>
+    <string name="app_version">9.5</string>
+    <string name="rooted_app_alert">It is Rooted Device.So this app is not available to use.</string>
+    <string name="password">Password</string>
+    <string name="c_password">Confirm Password</string>
+    <string name="letChat">Lets Chat</string>
+    <string name="close">Close</string>
+    <string name="pOne">54BF14D975D3AA59</string>
+    <string name="pTwo">07B216E4F4A615F6377F53C4285117B0</string>
+    <string name="change_password">Change Password</string>
+    <string name="predictiveFlag">1</string>
+    <string name="api_key">AIzaSyAkRwNFqYcLtv0ULu8YlcGIwCjMx1Ox7m0</string>
+    <string name="appsRestrictedAlert">You have apps like AnyDesk and Team Viewer on nYour phone which can be unsafe. Please be cautious.</string>
+</resources>

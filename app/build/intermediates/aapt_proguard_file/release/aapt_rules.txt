@@ -1,0 +1,198 @@
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:41
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:122
+-keep class androidx.core.content.FileProvider { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:66
+-keep class com.example.sipappmerge.Merge.BaseActivity { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:94
+-keep class com.example.sipappmerge.Merge.CallDispo { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:67
+-keep class com.example.sipappmerge.Merge.ChangePassword { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:81
+-keep class com.example.sipappmerge.Merge.FAQActivity { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:87
+-keep class com.example.sipappmerge.Merge.Ibreak { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:97
+-keep class com.example.sipappmerge.Merge.Login { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:77
+-keep class com.example.sipappmerge.Merge.NewModel { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:55
+-keep class com.example.sipappmerge.Merge.PredictiveCall { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:84
+-keep class com.example.sipappmerge.Merge.ProgressiveCall { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:70
+-keep class com.example.sipappmerge.Merge.SplashActivity { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:63
+-keep class com.example.sipappmerge.Merge.VideoListActivity { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:59
+-keep class com.example.sipappmerge.Merge.WebViewActivity { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:154
+-keep class com.example.sipappmerge.Utils.ConnectivityReceiver { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:41
+-keep class com.example.sipappmerge.Utils.MyApplication { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:141
+-keep class com.example.sipappmerge.Utils.MyBackgroundService { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:145
+-keep class com.example.sipappmerge.Utils.MyService { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:136
+-keep class com.example.sipappmerge.Utils.ScheduledJobService { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:163
+-keep class com.example.sipappmerge.Utils.UpdateService { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:91
+-keep class com.example.sipappmerge.crash.CallActivity { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:169
+-keep class com.firebase.jobdispatcher.GooglePlayReceiver { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:224
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:237
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:231
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:192
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:214
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:204
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:210
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:177
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:197
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:57
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_cascading_menu_item_layout.xml:20
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\item_video_layout.xml:2
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\list_item.xml:2
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_base.xml:2
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_chat_bot.xml:2
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_predictive_call.xml:2
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_video_list.xml:2
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_web_view.xml:2
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\bottom_layout.xml:2
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\chat_items.xml:2
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1eaa3180047a298797b352daf432a15\jetified-Multi-Selection-Spinner-Android--SNAPSHOT\res\layout\layout_adapter_multi_selection.xml:2
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1eaa3180047a298797b352daf432a15\jetified-Multi-Selection-Spinner-Android--SNAPSHOT\res\layout\layout_dialog_multi_selection.xml:2
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\list_item.xml:9
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\drawable\customer_details_item.xml:8
+-keep class androidx.constraintlayout.widget.Guideline { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\customer_details_item.xml:8
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\list_item.xml:14
+-keep class androidx.constraintlayout.widget.Guideline { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1d346182faa2235c1002f88884d2a17\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_chat_bot.xml:72
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_predictive_call.xml:162
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_video_list.xml:40
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\call_dispo.xml:102
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\call_progressive.xml:77
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\e1eaa3180047a298797b352daf432a15\jetified-Multi-Selection-Spinner-Android--SNAPSHOT\res\layout\layout_dialog_multi_selection.xml:9
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\list_item.xml:70
+-keep class com.anurag.multiselectionspinner.MultiSpinner { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\new_model.xml:36
+-keep class com.example.sipappmerge.Utils.ExpandableHeightGridView { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\activity_main2.xml:21
+-keep class com.example.sipappmerge.logger.LogFragment { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\design_layout_snackbar.xml:18
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\mtrl_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\design_layout_snackbar_include.xml:18
+# Referenced at C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\f929cfa13b4110fd4951e0f80e281cf1\material-1.0.0\res\layout\mtrl_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\layout\list_item.xml:99
+-keep class com.zcw.togglebutton.ToggleButton { <init>(...); }
+
+# Referenced at D:\krishnan\CRM_PDM\CrmPredective\app\src\main\res\menu\option_menu.xml:3
+-keepclassmembers class * { *** true(android.view.MenuItem); }
+

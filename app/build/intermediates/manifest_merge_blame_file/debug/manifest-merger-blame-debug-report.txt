@@ -1,0 +1,469 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sipappmerge"
+4    android:sharedUserId="android.ui"
+5    android:versionCode="1"
+6    android:versionName="9.5" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+9-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:7:5-79
+12-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:8:5-79
+13-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:9:5-76
+14-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:9:22-73
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:10:5-67
+15-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:10:22-64
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:11:5-81
+16-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+17-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:12:5-84
+17-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:12:22-81
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:13:5-75
+18-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:13:22-72
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:14:5-80
+19-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:14:22-77
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:15:5-65
+20-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:15:22-62
+21    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+21-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:16:5-86
+21-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:16:22-83
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:17:5-81
+22-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:17:22-78
+23    <uses-permission android:name="android.permission.CALL_PHONE" />
+23-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:18:5-69
+23-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:18:22-66
+24    <uses-permission android:name="android.permission.READ_LOGS" />
+24-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:19:5-68
+24-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:19:22-65
+25    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+25-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:20:5-71
+25-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:20:22-68
+26    <uses-permission android:name="android.permission.TELEPHONY_SERVICE" />
+26-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:21:5-76
+26-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:21:22-73
+27
+28    <uses-feature android:name="android.hardware.camera" />
+28-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:23:5-60
+28-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:23:19-57
+29    <uses-feature android:name="android.telecom.TelecomManager" />
+29-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:24:5-67
+29-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:24:19-64
+30
+31    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+31-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:25:5-78
+31-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:25:22-75
+32    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+32-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:26:5-75
+32-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:26:22-72
+33    <uses-permission android:name="android.permission.GET_TASKS" />
+33-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:27:5-68
+33-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:27:22-65
+34    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+34-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:28:5-81
+34-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:28:22-78
+35    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+35-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:29:5-78
+35-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:29:22-75
+36    <uses-permission android:name="android.permission.WAKE_LOCK" />
+36-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:30:5-68
+36-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:30:22-65
+37    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+37-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:9:5-76
+37-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:9:22-73
+38    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+38-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:32:5-83
+38-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:32:22-80
+39    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+39-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:5-110
+39-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:26:22-107
+40
+41    <application
+41-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:34:5-156:19
+42        android:name="com.example.sipappmerge.Utils.MyApplication"
+42-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:35:9-44
+43        android:allowBackup="false"
+43-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:36:9-36
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.1.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\af43dee5bc0ebcceebb399b11c6e5eb6\core-1.1.0\AndroidManifest.xml:24:18-86
+45        android:debuggable="true"
+46        android:hardwareAccelerated="true"
+46-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:37:9-43
+47        android:icon="@mipmap/ic_launcher"
+47-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:38:9-43
+48        android:label="@string/app_name"
+48-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:39:9-41
+49        android:largeHeap="true"
+49-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:40:9-33
+50        android:requestLegacyExternalStorage="true"
+50-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:41:9-52
+51        android:roundIcon="@mipmap/ic_launcher_round"
+51-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:42:9-54
+52        android:supportsRtl="true"
+52-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:43:9-35
+53        android:testOnly="false"
+53-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:44:9-33
+54        android:theme="@style/AppTheme"
+54-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:45:9-40
+55        android:usesCleartextTraffic="true" >
+55-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:46:9-44
+56        <activity
+56-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:47:9-49:68
+57            android:name="com.example.sipappmerge.Merge.PredictiveCall"
+57-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:47:19-55
+58            android:screenOrientation="portrait"
+58-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:48:13-49
+59            android:theme="@style/AppTheme.NoActionBar" />
+59-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:49:13-56
+60        <activity
+60-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:50:9-53:59
+61            android:name="com.example.sipappmerge.Merge.WebViewActivity"
+61-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:51:13-50
+62            android:screenOrientation="landscape"
+62-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:52:13-50
+63            android:theme="@style/AppTheme.NoActionBar" />
+63-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:53:13-56
+64        <activity
+64-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:54:9-56:68
+65            android:name="com.example.sipappmerge.Merge.VideoListActivity"
+65-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:55:13-52
+66            android:theme="@style/AppTheme.NoActionBar" />
+66-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:56:13-56
+67        <activity android:name="com.example.sipappmerge.Merge.BaseActivity" />
+67-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:57:9-56
+67-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:57:19-53
+68        <activity
+68-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:58:9-60:59
+69            android:name="com.example.sipappmerge.Merge.ChangePassword"
+69-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:59:13-49
+70            android:theme="@style/AppTheme.NoActionBar" />
+70-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:60:13-56
+71        <activity android:name="com.example.sipappmerge.Merge.SplashActivity" >
+71-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:61:9-67:20
+71-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:61:19-55
+72            <intent-filter>
+72-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:62:13-66:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:63:17-69
+73-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:63:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:65:17-77
+75-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:65:27-74
+76            </intent-filter>
+77        </activity>
+78        <activity
+78-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:68:9-71:59
+79            android:name="com.example.sipappmerge.Merge.NewModel"
+79-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:69:13-43
+80            android:screenOrientation="portrait"
+80-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:70:13-49
+81            android:theme="@style/AppTheme.NoActionBar" />
+81-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:71:13-56
+82        <activity
+82-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:72:9-74:52
+83            android:name="com.example.sipappmerge.Merge.FAQActivity"
+83-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:73:13-46
+84            android:screenOrientation="portrait" />
+84-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:74:13-49
+85        <activity
+85-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:75:9-77:52
+86            android:name="com.example.sipappmerge.Merge.ProgressiveCall"
+86-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:76:13-50
+87            android:screenOrientation="portrait" />
+87-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:77:13-49
+88        <activity
+88-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:78:9-81:52
+89            android:name="com.example.sipappmerge.Merge.Ibreak"
+89-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:79:13-41
+90            android:screenOrientation="portrait"
+90-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:81:13-49
+91            android:theme="@style/AppTheme.NoActionBar" />
+91-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:80:13-56
+92        <activity
+92-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:82:9-84:52
+93            android:name="com.example.sipappmerge.crash.CallActivity"
+93-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:83:13-47
+94            android:screenOrientation="portrait" />
+94-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:84:13-49
+95        <activity
+95-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:85:9-87:52
+96            android:name="com.example.sipappmerge.Merge.CallDispo"
+96-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:86:13-44
+97            android:screenOrientation="portrait" />
+97-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:87:13-49
+98        <activity
+98-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:88:9-111:20
+99            android:name="com.example.sipappmerge.Merge.Login"
+99-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:89:13-40
+100            android:screenOrientation="portrait"
+100-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:90:13-49
+101            android:windowSoftInputMode="stateHidden|adjustPan" >
+101-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:91:13-64
+102            <intent-filter>
+102-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:92:13-105:29
+103
+104                <!-- Handle links from other applications -->
+105
+106                <action android:name="android.intent.action.ANSWER" />
+106-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:96:17-71
+106-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:96:25-68
+107                <!-- Populate the system chooser -->
+108                <category android:name="android.intent.category.DEFAULT" />
+108-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:98:17-76
+108-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:98:27-73
+109
+110                <action android:name="android.intent.action.CALL_PRIVILEGED" />
+110-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:100:17-80
+110-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:100:25-77
+111                <!-- Handle links in browsers -->
+112                <category android:name="android.intent.category.BROWSABLE" />
+112-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:102:17-78
+112-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:102:27-75
+113
+114                <data android:scheme="tel" />
+114-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:104:17-46
+114-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:104:23-43
+115            </intent-filter>
+116            <intent-filter>
+116-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:106:13-110:29
+117                <action android:name="android.intent.action.DIAL" />
+117-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:107:17-69
+117-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:107:25-66
+118
+119                <category android:name="android.intent.category.DEFAULT" />
+119-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:98:17-76
+119-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:98:27-73
+120            </intent-filter>
+121        </activity>
+122
+123        <provider
+123-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:113:9-121:20
+124            android:name="androidx.core.content.FileProvider"
+124-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:114:13-62
+125            android:authorities="com.example.sipappmerge"
+125-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:115:13-58
+126            android:exported="false"
+126-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:116:13-37
+127            android:grantUriPermissions="true" >
+127-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:117:13-47
+128            <meta-data
+128-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:118:13-120:54
+129                android:name="android.support.FILE_PROVIDER_PATHS"
+129-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:119:17-67
+130                android:resource="@xml/file_paths" />
+130-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:120:17-51
+131        </provider>
+132
+133        <uses-library
+133-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:123:9-125:40
+134            android:name="org.apache.http.legacy"
+134-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:124:13-50
+135            android:required="false" />
+135-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:125:13-37
+136
+137        <service android:name="com.example.sipappmerge.Utils.ScheduledJobService" >
+137-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:127:9-131:19
+137-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:127:18-59
+138            <intent-filter>
+138-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:128:13-130:29
+139                <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE" />
+139-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:129:17-84
+139-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:129:25-81
+140            </intent-filter>
+141        </service>
+142        <service
+142-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:132:9-135:40
+143            android:name="com.example.sipappmerge.Utils.MyBackgroundService"
+143-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:133:13-54
+144            android:enabled="true"
+144-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:134:13-35
+145            android:exported="false" />
+145-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:135:13-37
+146        <service
+146-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:136:9-139:40
+147            android:name="com.example.sipappmerge.Utils.MyService"
+147-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:137:13-44
+148            android:enabled="true"
+148-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:138:13-35
+149            android:exported="false" />
+149-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:139:13-37
+150
+151        <meta-data
+151-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:141:9-143:47
+152            android:name="com.google.android.safetynet.ATTEST_API_KEY"
+152-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:142:13-71
+153            android:value="@string/api_key" />
+153-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:143:13-44
+154
+155        <receiver
+155-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:145:9-152:20
+156            android:name="com.example.sipappmerge.Utils.ConnectivityReceiver"
+156-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:146:13-55
+157            android:enabled="true"
+157-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:147:13-35
+158            android:exported="false" >
+158-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:148:13-37
+159            <intent-filter>
+159-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:149:13-151:29
+160                <action android:name="android.intent.action.AIRPLANE_MODE" />
+160-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:150:17-78
+160-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:150:25-75
+161            </intent-filter>
+162        </receiver>
+163
+164        <service android:name="com.example.sipappmerge.Utils.UpdateService" >
+164-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:153:9-155:19
+164-->D:\krishnan\CRM_PDM\CrmPredective\app\src\main\AndroidManifest.xml:154:13-48
+165        </service>
+166        <!--
+167             Receives GooglePlay execution requests and forwards them to the
+168             appropriate internal service.
+169        -->
+170        <service
+170-->[com.firebase:firebase-jobdispatcher:0.8.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\280a1297251c7cf30fb176fcead3527c\jetified-firebase-jobdispatcher-0.8.4\AndroidManifest.xml:32:9-39:19
+171            android:name="com.firebase.jobdispatcher.GooglePlayReceiver"
+171-->[com.firebase:firebase-jobdispatcher:0.8.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\280a1297251c7cf30fb176fcead3527c\jetified-firebase-jobdispatcher-0.8.4\AndroidManifest.xml:33:13-73
+172            android:exported="true"
+172-->[com.firebase:firebase-jobdispatcher:0.8.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\280a1297251c7cf30fb176fcead3527c\jetified-firebase-jobdispatcher-0.8.4\AndroidManifest.xml:34:13-36
+173            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" >
+173-->[com.firebase:firebase-jobdispatcher:0.8.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\280a1297251c7cf30fb176fcead3527c\jetified-firebase-jobdispatcher-0.8.4\AndroidManifest.xml:35:13-93
+174            <intent-filter>
+174-->[com.firebase:firebase-jobdispatcher:0.8.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\280a1297251c7cf30fb176fcead3527c\jetified-firebase-jobdispatcher-0.8.4\AndroidManifest.xml:36:13-38:29
+175                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+175-->[com.firebase:firebase-jobdispatcher:0.8.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\280a1297251c7cf30fb176fcead3527c\jetified-firebase-jobdispatcher-0.8.4\AndroidManifest.xml:37:17-87
+175-->[com.firebase:firebase-jobdispatcher:0.8.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\280a1297251c7cf30fb176fcead3527c\jetified-firebase-jobdispatcher-0.8.4\AndroidManifest.xml:37:25-84
+176            </intent-filter>
+177        </service>
+178        <service
+178-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0425185197732171140ae31776371434\jetified-firebase-crashlytics-17.2.1\AndroidManifest.xml:13:9-19:19
+179            android:name="com.google.firebase.components.ComponentDiscoveryService"
+179-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0425185197732171140ae31776371434\jetified-firebase-crashlytics-17.2.1\AndroidManifest.xml:14:13-84
+180            android:directBootAware="true"
+180-->[com.google.firebase:firebase-common:19.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\25889bd988ec77b290d6a4e6927dedd4\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+181            android:exported="false" >
+181-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0425185197732171140ae31776371434\jetified-firebase-crashlytics-17.2.1\AndroidManifest.xml:15:13-37
+182            <meta-data
+182-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0425185197732171140ae31776371434\jetified-firebase-crashlytics-17.2.1\AndroidManifest.xml:16:13-18:85
+183                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+183-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0425185197732171140ae31776371434\jetified-firebase-crashlytics-17.2.1\AndroidManifest.xml:17:17-115
+184                android:value="com.google.firebase.components.ComponentRegistrar" />
+184-->[com.google.firebase:firebase-crashlytics:17.2.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0425185197732171140ae31776371434\jetified-firebase-crashlytics-17.2.1\AndroidManifest.xml:18:17-82
+185            <meta-data
+185-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\5118f7f53260d74d703b495a607dc054\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:30:13-32:85
+186                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+186-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\5118f7f53260d74d703b495a607dc054\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:31:17-139
+187                android:value="com.google.firebase.components.ComponentRegistrar" />
+187-->[com.google.android.gms:play-services-measurement-api:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\5118f7f53260d74d703b495a607dc054\jetified-play-services-measurement-api-17.5.0\AndroidManifest.xml:32:17-82
+188            <meta-data
+188-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\eec2d92e07a9bd5005b1244304735ae1\jetified-firebase-installations-16.3.3\AndroidManifest.xml:17:13-19:85
+189                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+189-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\eec2d92e07a9bd5005b1244304735ae1\jetified-firebase-installations-16.3.3\AndroidManifest.xml:18:17-127
+190                android:value="com.google.firebase.components.ComponentRegistrar" />
+190-->[com.google.firebase:firebase-installations:16.3.3] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\eec2d92e07a9bd5005b1244304735ae1\jetified-firebase-installations-16.3.3\AndroidManifest.xml:19:17-82
+191        </service>
+192
+193        <activity
+193-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0607323aac1a8a61a1ad3e02c921ec69\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+194            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+194-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0607323aac1a8a61a1ad3e02c921ec69\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+195            android:exported="false"
+195-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0607323aac1a8a61a1ad3e02c921ec69\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+196            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+196-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\0607323aac1a8a61a1ad3e02c921ec69\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+197
+198        <provider
+198-->[com.google.firebase:firebase-common:19.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\25889bd988ec77b290d6a4e6927dedd4\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+199            android:name="com.google.firebase.provider.FirebaseInitProvider"
+199-->[com.google.firebase:firebase-common:19.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\25889bd988ec77b290d6a4e6927dedd4\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+200            android:authorities="com.example.sipappmerge.firebaseinitprovider"
+200-->[com.google.firebase:firebase-common:19.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\25889bd988ec77b290d6a4e6927dedd4\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+201            android:directBootAware="true"
+201-->[com.google.firebase:firebase-common:19.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\25889bd988ec77b290d6a4e6927dedd4\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+202            android:exported="false"
+202-->[com.google.firebase:firebase-common:19.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\25889bd988ec77b290d6a4e6927dedd4\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+203            android:initOrder="100" />
+203-->[com.google.firebase:firebase-common:19.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\25889bd988ec77b290d6a4e6927dedd4\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+204
+205        <receiver
+205-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:29:9-33:20
+206            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+206-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:30:13-85
+207            android:enabled="true"
+207-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:31:13-35
+208            android:exported="false" >
+208-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:32:13-37
+209        </receiver>
+210
+211        <service
+211-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:35:9-38:40
+212            android:name="com.google.android.gms.measurement.AppMeasurementService"
+212-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:36:13-84
+213            android:enabled="true"
+213-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:37:13-35
+214            android:exported="false" />
+214-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:38:13-37
+215        <service
+215-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:39:9-43:72
+216            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+216-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:40:13-87
+217            android:enabled="true"
+217-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:41:13-35
+218            android:exported="false"
+218-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:42:13-37
+219            android:permission="android.permission.BIND_JOB_SERVICE" />
+219-->[com.google.android.gms:play-services-measurement:17.5.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\6395a0c127c60214ac1a09e84c15643d\jetified-play-services-measurement-17.5.0\AndroidManifest.xml:43:13-69
+220
+221        <meta-data
+221-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\17f9ce094a26dea704e13c659b39f384\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+222            android:name="com.google.android.gms.version"
+222-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\17f9ce094a26dea704e13c659b39f384\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+223            android:value="@integer/google_play_services_version" />
+223-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\17f9ce094a26dea704e13c659b39f384\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+224
+225        <service
+225-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\06303bb2422509ffb4741782ac6d7f28\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:29:9-35:19
+226            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+226-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\06303bb2422509ffb4741782ac6d7f28\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:30:13-103
+227            android:exported="false" >
+227-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\06303bb2422509ffb4741782ac6d7f28\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:31:13-37
+228            <meta-data
+228-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\06303bb2422509ffb4741782ac6d7f28\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:32:13-34:39
+229                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+229-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\06303bb2422509ffb4741782ac6d7f28\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:33:17-94
+230                android:value="cct" />
+230-->[com.google.android.datatransport:transport-backend-cct:2.3.1] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\06303bb2422509ffb4741782ac6d7f28\jetified-transport-backend-cct-2.3.1\AndroidManifest.xml:34:17-36
+231        </service>
+232        <service
+232-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\43add6e3ca07639601a7eb3cd36e114d\jetified-transport-runtime-2.2.4\AndroidManifest.xml:26:9-30:19
+233            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+233-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\43add6e3ca07639601a7eb3cd36e114d\jetified-transport-runtime-2.2.4\AndroidManifest.xml:27:13-117
+234            android:exported="false"
+234-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\43add6e3ca07639601a7eb3cd36e114d\jetified-transport-runtime-2.2.4\AndroidManifest.xml:28:13-37
+235            android:permission="android.permission.BIND_JOB_SERVICE" >
+235-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\43add6e3ca07639601a7eb3cd36e114d\jetified-transport-runtime-2.2.4\AndroidManifest.xml:29:13-69
+236        </service>
+237
+238        <receiver
+238-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\43add6e3ca07639601a7eb3cd36e114d\jetified-transport-runtime-2.2.4\AndroidManifest.xml:32:9-34:40
+239            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+239-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\43add6e3ca07639601a7eb3cd36e114d\jetified-transport-runtime-2.2.4\AndroidManifest.xml:33:13-132
+240            android:exported="false" />
+240-->[com.google.android.datatransport:transport-runtime:2.2.4] C:\Users\navaneetha krishnan\.gradle\caches\transforms-2\files-2.1\43add6e3ca07639601a7eb3cd36e114d\jetified-transport-runtime-2.2.4\AndroidManifest.xml:34:13-37
+241    </application>
+242
+243</manifest>

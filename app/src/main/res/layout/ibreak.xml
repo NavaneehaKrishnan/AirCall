@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:id="@+id/rlBar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:paddingLeft="16dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center_vertical">
+        <RelativeLayout
+            android:id="@+id/rlBack"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            >
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="20dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/appicon"
+                android:tint="@color/white"
+                android:id="@+id/imgCP"/>
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:padding="10dp"
+            android:src="@drawable/ic_settings_power_black_24dp"
+            android:id="@+id/imgLogout"/>
+    </RelativeLayout>
+<TextView
+    android:id="@+id/txtbreak"
+    android:layout_width="match_parent"
+    android:text="fdasfsa"
+    android:textColor="@color/black"
+    android:textSize="20dp"
+    android:layout_margin="20dp"
+    android:gravity="center"
+    android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/ready_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@color/dark_green"
+        android:text=""
+        android:textColor="@color/white" />
+</LinearLayout>
