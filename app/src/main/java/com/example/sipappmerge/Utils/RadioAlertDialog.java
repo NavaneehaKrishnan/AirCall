@@ -24,8 +24,8 @@ public class RadioAlertDialog {
         this.mActivity = a;
     }
 
-    @SuppressWarnings("InflateParams")
     public void build(JSONArray array) {
+        final String[] strSelected = {""};
         Util.saveData("BREAK", "", mActivity.getApplicationContext());
         final Dialog dialog = new Dialog(mActivity);
         //dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
@@ -37,12 +37,12 @@ public class RadioAlertDialog {
         BTN.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (Util.getData("BREAK", mActivity.getApplicationContext()).equalsIgnoreCase("")) {
+                if (strSelected[0].equalsIgnoreCase("")) {
                     Toast.makeText(mActivity, "Select Option", Toast.LENGTH_SHORT).show();
                 } else {
                     dialog.dismiss();
 
-                    ReleaseBreak("ApplyBreak");
+                    ReleaseBreak("ApplyBreak",strSelected[0]);
                 }
             }
         });
@@ -67,19 +67,19 @@ public class RadioAlertDialog {
                 for (int x = 0; x < childCount; x++) {
                     RadioButton btn = (RadioButton) group.getChildAt(x);
                     if (btn.getId() == checkedId) {
+                        strSelected[0] = btn.getText().toString();
 
-                        Util.saveData("BREAK", btn.getText().toString(), mActivity.getApplicationContext());
                     }
                 }
             }
         });
     }
 
-    private void ReleaseBreak(String action) {
+    private void ReleaseBreak(String action, final String s) {
 
         try {
             JSONObject params = new JSONObject();
-            params.put("Break", Util.getData("BREAK", mActivity.getApplicationContext()));
+            params.put("Break", s);
             params.put("agent_id", Util.getData("AgentName", mActivity.getApplicationContext()));
             Util.Logcat.e("RELEASE BREAK" + ", param :"+params.toString());
             CallApi.postResponse(mActivity, params.toString(), ApplyBreak, new VolleyResponseListener() {
@@ -100,6 +100,7 @@ public class RadioAlertDialog {
                             {
                                 if (jsonArray.getJSONObject(0).getString("Status").equalsIgnoreCase("0")) {
                                     Toast.makeText(mActivity, jsonArray.getJSONObject(0).getString("Statusdesc"), Toast.LENGTH_LONG).show();
+                                    Util.saveData("BREAK", s, mActivity.getApplicationContext());
                                 } else {
                                     Toast.makeText(mActivity, jsonArray.getJSONObject(0).getString("Statusdesc"), Toast.LENGTH_LONG).show();
                                 }

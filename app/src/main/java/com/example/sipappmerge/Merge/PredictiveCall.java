@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+
 import android.app.DatePickerDialog;
 import android.app.TimePickerDialog;
 import android.content.BroadcastReceiver;
@@ -548,11 +549,11 @@ public class PredictiveCall extends AppCompatActivity implements View.OnClickLis
                         imgLogo.setVisibility(View.GONE);
                         String[] splitData = jsonObject.getString("MESSAGE").split("#@@#");
                         txtOne.setText(splitData[0]+"\n"+splitData[1].substring(0,19));
-                        if(jsonObject.getString("MESSAGE").contains("DIALING") || jsonObject.getString("MESSAGE").equals("DIALING")||jsonObject.getString("MESSAGE").contains("ONCALL") || jsonObject.getString("MESSAGE").equals("ONCALL")||jsonObject.getString("MESSAGE").contains("WRAPUP ") || jsonObject.getString("MESSAGE").equals("WRAPUP ")||jsonObject.getString("MESSAGE").contains("RINGING ") || jsonObject.getString("MESSAGE").equals("RINGING "))
+                        if(jsonObject.getString("MESSAGE").contains("DIALING") || jsonObject.getString("MESSAGE").equals("DIALING")||jsonObject.getString("MESSAGE").contains("ONCALL") || jsonObject.getString("MESSAGE").equals("ONCALL")||jsonObject.getString("MESSAGE").contains("WRAPUP") || jsonObject.getString("MESSAGE").equals("WRAPUP")||jsonObject.getString("MESSAGE").contains("RINGING ") || jsonObject.getString("MESSAGE").equals("RINGING "))
                         {//ONCALL 00:00:33~8056760909~predictive_test~6030951~Predictive~none~n~#@@#2020-10-12 12:01:06^1-predictive_test1^1-predictive_test1^^^33^^6030951^agent_6
                             String[] splitDas = jsonObject.getString("MESSAGE").split("~");
                             txtOne.setText(splitDas[0]+"\n"+splitDas[7].substring(4,23));
-                            if(!isLoadedCusDetails && (!jsonObject.getString("MESSAGE").contains("WRAPUP ") && !jsonObject.getString("MESSAGE").equals("WRAPUP "))) {
+                            if(!isLoadedCusDetails && (!jsonObject.getString("MESSAGE").contains("WRAPUP") && !jsonObject.getString("MESSAGE").equals("WRAPUP"))) {
                                 mobileno = splitDas[1];
                                 leadid = splitDas[3];
                                 referNum = jsonObject.getString("refno");
@@ -565,7 +566,7 @@ public class PredictiveCall extends AppCompatActivity implements View.OnClickLis
                                 isLoadedCusDetails = true;
                                 isLoadedWrapUp  = true;
 
-                            }else if(jsonObject.getString("MESSAGE").contains("WRAPUP ") || jsonObject.getString("MESSAGE").equals("WRAPUP ")) {
+                            }else if(jsonObject.getString("MESSAGE").contains("WRAPUP") || jsonObject.getString("MESSAGE").equals("WRAPUP")) {
                                 llDespoDetails.setVisibility(View.VISIBLE);
                                 imgLogo.setVisibility(View.GONE);
                                 hangUp_call.setVisibility(View.GONE);
@@ -661,6 +662,7 @@ public class PredictiveCall extends AppCompatActivity implements View.OnClickLis
                 @Override
                 public void onResponse(JSONObject response) {
                     Util.Logcat.e("HangupCalls Response" + response);
+                    hangUp_call.setVisibility(View.GONE);
 //
 
                 }
@@ -912,10 +914,10 @@ public class PredictiveCall extends AppCompatActivity implements View.OnClickLis
                             imgLogo.setVisibility(View.GONE);
                             String[] splitData = jsonObject.getString("MESSAGE").split("#@@#");
                             txtOne.setText(splitData[0] + "\n" + splitData[1].substring(0, 19));
-                            if (jsonObject.getString("MESSAGE").contains("DIALING") || jsonObject.getString("MESSAGE").equals("DIALING") || jsonObject.getString("MESSAGE").contains("ONCALL") || jsonObject.getString("MESSAGE").equals("ONCALL") || jsonObject.getString("MESSAGE").contains("WRAPUP ") || jsonObject.getString("MESSAGE").equals("WRAPUP ") || jsonObject.getString("MESSAGE").contains("RINGING ") || jsonObject.getString("MESSAGE").equals("RINGING ")) {//ONCALL 00:00:33~8056760909~predictive_test~6030951~Predictive~none~n~#@@#2020-10-12 12:01:06^1-predictive_test1^1-predictive_test1^^^33^^6030951^agent_6
+                            if (jsonObject.getString("MESSAGE").contains("DIALING") || jsonObject.getString("MESSAGE").equals("DIALING") || jsonObject.getString("MESSAGE").contains("ONCALL") || jsonObject.getString("MESSAGE").equals("ONCALL") || jsonObject.getString("MESSAGE").contains("WRAPUP") || jsonObject.getString("MESSAGE").equals("WRAPUP") || jsonObject.getString("MESSAGE").contains("RINGING ") || jsonObject.getString("MESSAGE").equals("RINGING ")) {//ONCALL 00:00:33~8056760909~predictive_test~6030951~Predictive~none~n~#@@#2020-10-12 12:01:06^1-predictive_test1^1-predictive_test1^^^33^^6030951^agent_6
                                 String[] splitDas = jsonObject.getString("MESSAGE").split("~");
                                 txtOne.setText(splitDas[0] + "\n" + splitDas[7].substring(4, 23));
-                                if (!jsonObject.getString("MESSAGE").contains("WRAPUP ") && !jsonObject.getString("MESSAGE").equals("WRAPUP ")){
+                                if (!jsonObject.getString("MESSAGE").contains("WRAPUP") && !jsonObject.getString("MESSAGE").equals("WRAPUP")){
                                     mobileno = splitDas[1];
                                     leadid = splitDas[3];
                                     referNum = jsonObject.getString("refno");
@@ -928,7 +930,7 @@ public class PredictiveCall extends AppCompatActivity implements View.OnClickLis
                                     isLoadedCusDetails = true;
                                     isLoadedWrapUp = true;
 
-                                } else if (jsonObject.getString("MESSAGE").contains("WRAPUP ") || jsonObject.getString("MESSAGE").equals("WRAPUP ")) {
+                                } else if (jsonObject.getString("MESSAGE").contains("WRAPUP") || jsonObject.getString("MESSAGE").equals("WRAPUP")) {
                                     llDespoDetails.setVisibility(View.VISIBLE);
                                     imgLogo.setVisibility(View.GONE);
                                     hangUp_call.setVisibility(View.GONE);
